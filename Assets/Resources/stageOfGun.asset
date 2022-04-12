@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a822e11b872a194db44598bee84fb43, type: 3}
+  m_Name: stageOfGun
+  m_EditorClassIdentifier: 
+  weapon:
+  - {fileID: 1882450451706272769, guid: dbdf20f491a5a804ebed532d674bd449, type: 3}
+  - {fileID: 3274319293933148545, guid: 9a38de5e42948b74ca7d2f601123c22e, type: 3}
